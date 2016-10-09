@@ -1,0 +1,99 @@
+/***********
+Heading
+ ********/
+
+header{
+	margin: 100px auto;
+}
+h1 {
+	display: block;
+	font-size 3-0em;
+	text-align: center;
+}
+
+
+/******
+LIST
+ *****/
+.main ul {
+	margin: 0;
+	padding: .125em 0;
+	text-align: center;
+	list-style: none;
+
+}
+.main h3{
+	width: 100%;
+	text-align: center;
+	margin: 0;
+}
+
+.main a {
+	font-weight: 400;
+	font-family:"New Century Schoolbook", serif;
+	text-decoration: none;
+
+}
+.main input{
+width: 98%;
+text-align: center;
+color: darkblue;
+	font-family:"New Century Schoolbook", serif;
+
+}
+.wrapper{
+		  max-width: 1024px;
+		    margin: 0 auto;
+
+
+}
+.main section {
+	  display: inline-block;
+	    float: left;
+		font-family: Century Gothic, sans-serif;
+		  margin: 20px 15%;
+		  width: 70%;
+}
+
+
+
+/****************
+ * COLORS
+ * ****************/
+
+body {
+	  background-color: #2B303B;
+	    color: #EFF1F5;
+
+}
+
+body a, body a:visited {
+	  color: #65737E;
+
+}
+
+body a:hover {
+	  color: #96B5B4;
+
+}
+
+.main ul {
+	  background-color: #EFF1F5;
+
+}
+
+.reddit-theme h3 {
+	  background-color: #8FA1B3;
+	
+}
+
+
+.dev-theme h3 {
+	  background-color: #A3BE8C;
+
+}
+
+.random-theme h3 {
+	  background-color: #AB7967;
+
+}
